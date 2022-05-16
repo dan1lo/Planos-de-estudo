@@ -3,31 +3,31 @@
 
 ### Objetivo de aprendizagem
 
-1. criar
-2. avaliar
-3. analisar
-4. aplicar
-5. compreender 
-6. lembrar 
+1. Propor um modelo de *4cid-light* para a Zup e outras empresas de educação com foco em computação;
+1. Propor melhorias ao processo de criação de treinamentos da zup.edu
+1. Ser capaz de *construir* treinamentos usando 4cid;
+1. Ser capaz de *avaliar* treinamentos usando 4cid;
+1. Ser capaz de *solucionar* problemas e *responder* dúvidas sobre o 4cid;
+1. *Compreender* vantagens e desvantagens do 4cid; 
+1. *Compreender* do principais conceitos do 4cid;
+ 
 
 
 ### Explorar o tema
 
-1. O que é intervenção no dicionário?
+1. O que é 4cid?
+- 1. Em que ele é baseado?
+- 1. Quais são os principais presupostos?
+- 1. Quem usa 4cid?
+- 1. Quais são os principais resultados?
+- 1. Quais são os principais autores?
+1. Existem adaptações do 4cid?
+1. Existem itens melhores que o 4cid?
+1. Qual são as vantagens e desvantagens?
+1. Existem empresas e tutoriais não academicos sobre o assunto?
+1. Qual são os passos da zup.edu para criar treinamento que diferem do 4cid bruto?
 
-2. O que é intervenção na piscologia?
 
-3. Exemplos de intervenção 
-
-4. Qual processo de intervenção recomendado?
-
-5. Como os coach intervem?
-
-6. Cursos de coach
-
-7. Artigos com processos de intervençao
-
-8. Artigo com processo de intervenção na autoeficácia 
 
 ### Onde pesquisar
 
@@ -44,15 +44,17 @@
 
 ## Valide seu conhecimento
 
-1. Encontre pessoas no linkedin
+1. Alberto
+1. Artigos
+1. Stack.edu
+1. Martina
+1. Mentores
+
 
 
 
 ### Investigação de contexto
-1. O que não pode faltar em alguém que faz intervenção?
-2. O que uma pessoa que domina intervenção precisa saber?
-3. Como uma pessoa que domina intervenção precisa agir?
-4. Quais cuidados eu devo ter ao fazer uma intervenção?
+
 
 
 ### Pessoas que são autoridade sobre o tema
