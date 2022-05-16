@@ -64,6 +64,11 @@
 ### Fontes de consumo fácil
 
 
-### Exercícios de validação de contexto
+### Exercícios e atividade de validação de contexto
 
-
+1. Ler resumo de alberto
+1. Ler artigo sobre 4cid
+1. Ler o livro Ten Steps to Complex Learning 
+1. Realizar revisão sistemática para entendermos mais o impacto do 4CID como design instrucional 
+1. Construir um treinamento sobre um tema que te interesse baseado no que fazemos aqui dentro da Stack Edu 
+1. Realizar uma análise de alguns dos nossos treinamentos já construídos e publicados na Handora.
