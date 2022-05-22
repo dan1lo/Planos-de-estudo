@@ -16,11 +16,25 @@
 ### Explorar o tema
 
 1. O que é 4cid?
+* [Instructional Design Theory - the 4C/ID Model](https://www.youtube.com/watch?v=kPsEZ4FrlA0)
+*Introdução rápida*
+* [C1 - Tarefas de Aprendizagem / Modelo 4C-ID](https://www.youtube.com/watch?v=BcP-TS-9kP0)
+* [C2 - Informação de Apoio / Modelo 4C-ID](https://www.youtube.com/watch?v=M_LVUoMa5cY)
+* [C3 - Informação Processual / Modelo 4C-ID](https://www.youtube.com/watch?v=byng8w7vZOc)
+* [C4 - Prática nas Tarefas](https://www.youtube.com/watch?v=vD16dB5-Ni0)
+* [Recapitulando - Modelo 4C - ID](https://www.youtube.com/watch?v=iD1XHkCp6aE)
+* [Workshop do 4c/id feito pelo criadores](https://she.mumc.maastrichtuniversity.nl/workshop-four-component-instructional-design-4cid)
+*Ferramenta criada para o 4cid*
+* [Modelo 4C ID - Parte 1 - Tarefas de Aprendizagem](youtube.com/watch?v=gOQV_VG5AYs)
+* [Modelo 4C ID - Parte 2 - Informação de Apoio](https://www.youtube.com/watch?v=OBTPpH-znoU)
+* [Modelo 4C ID - Parte 3 - Informação Processual](https://www.youtube.com/watch?v=iEUDnBu04dE)
+* [Modelo 4C ID - Parte 4 - Prática nas Tarefas](https://www.youtube.com/watch?v=iHmXJYo44xo)
+
 - 1. Em que ele é baseado?
-- 1. Quais são os principais presupostos?
-- 1. Quem usa 4cid?
-- 1. Quais são os principais resultados?
-- 1. Quais são os principais autores?
+- 2. Quais são os principais presupostos?
+- 3. Quem usa 4cid?
+- 4. Quais são os principais resultados?
+- 5. Quais são os principais autores?
 1. Existem adaptações do 4cid?
 1. Existem itens melhores que o 4cid?
 1. Qual são as vantagens e desvantagens?
