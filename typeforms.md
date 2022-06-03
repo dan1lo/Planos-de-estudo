@@ -1,81 +1,239 @@
-# Estudo sobre typeforms
+# Blueprint de treinamento
+
+
+### Nome do treinamento:
+*Treinamento sobre criação de questionário com o Typeforms*
+### Criador do treinamento
+[Danilo Monteiro Ribeiro](danilo.ribeiro@zup.com.br) 
+
+### Pré-requisitos
+
+Não existem pré-requisitos em relação as habilidades requeridas para realização deste treinamento.
+
+
+### Recursos necessários
+Embora a parte teorica sirva para qualquer site de pesquisa como o google forms, para realizar este curso é necessário ter uma conta no Typeforms, que pode ser solicitada por aqui [link]().
+
+
+
+### Motivação 
+
+Perguntar para as pessoas é uma das principais maneiras de entender o que elas desejam, mas nada disso adianta se você não souber criar as perguntas certas. Você pode, por exemplo, induzir uma resposta e isso prejudicar sua análise. 
+
+Isso se torna ainda mais difícil quando se tem uma grande quantidade de possibilidades de forma de coleta de dados, o que é comum em ferramentas eletrônicas para realização dessa atividade. A pergunta que vem logo é: ***Qual tipo de pergunta eu posso usar para ter a melhor respostas?***
+
+Ademais, existem diferentes ferramentas que podem ser utilizadas para criação e envio de questionários, como o Google Forms e o Typeforms. Apesar dos conceitos teoricos serem semelhantes, cada uma das ferramentas tem sua particularidades. 
+
+Este treinamento visa auxiliar você na criação de questionários de maneira super efetiva, utilizando uma ferramenta homologada pela Zup, o Typeforms. A seguir os principais objetivos de aprendizado deste treinamento.
 
 
 ### Objetivo de aprendizagem
 
-1. Ser capaz de *criar* planos de intervenções da autoeficácia, educação entre outras coisa para a Zup
-1. Ser capaz de *aplicar* o processo de intervenção
-1. *Compreender* como os coach e psicologos fazem intervenções;
-- *Entender* a visão do alberto e do gustavo sobre intervenções 
-- *Compreender* como eu posso ajudar alguém que possa fazer a intervenção
-1. Ser capaz de *lembrar* das definições de intervenção;
+1. Ser capaz de ***construir***  questionários no typeforms de maneira efetiva;
 
+1. Ser capaz de ***criar*** conexões com Google Sheet para armazenar dados
 
-### Explorar o tema
+1.  Ser capaz de ***aplicar*** boas práticas de criação de questionário
 
-1. O que é intervenção no dicionário?
-- O que é intervenção para Gustavo
-- O que é intervenção para Alberto 
-- O que é para mim?
-    
-2. O que é intervenção na piscologia?
-- Quais sinônimo ela tem?
-- Quais são os principais autores sobre isso?
-3. Exemplos de intervenção 
-- Quais casos famosos?
-- Na autoeficácia tem exemplo?
-- Na educação?
+1. Ser capaz de ***diferenciar*** as categorias de perguntas existenteces no typeforms;
 
-4. Qual processo de intervenção recomendado?
-- Existe algum processo bem definido?
-- Existe autores famosos sobre o processo de intervenção?
-- Quais as vantagens e desvantagens de cada processo?
+1. Ser capaz de ***interpretar*** dados básicos de respostas no próprio typeforms
 
-5. Como os coach intervem?
-- Entender qual o processo que eles usam
-- Entender pontos fortes e fracos
-6. Cursos de coach
-- identificar os principais pontos dos cursos de coach para adicionar aqui
-- identificar bons cursos de coach
+1. Ser capaz de ***aplicar*** os conceitos de lógica de perguntas no typeforms
 
-7. Artigos com processos de intervençao
-- identificar principais modelos/teorias/processo sobre intervenção e consultoria
-8. Artigo com processo de intervenção na autoeficácia
-- identificar principais modelos/teorias/processo sobre intervenção e consultoria
+1. Ser capaz de ***entender*** as principais formas de manipulação de layout disponíveis para o typeforms 
 
-### Onde pesquisar
+### Ementa
+A definir
 
-1. Google
-2. Google Schollar
-3. Youtube
+### Task class
 
+A seguir serão apresentadas todas as task class do treinamento. 
 
-### Entendimento básico
+-----------------------------------------
 
-### Como você pode recuperar ?
-1. Fazer resumo dos textos
-2. Fazer um resumo em vídeo
+#### Task class 1: Dicas de construções de perguntas
+##### Objetivo ligado a task class: 
+##### Assuntos evolvidos na task class: 
+<Quais são os assuntos contidos nesta atividade>
+##### Informação de suporte:
+ <Quais são os links para a informação de suporte que são necessários para realizar a tarefa?>
 
-## Valide seu conhecimento
-1. Encontre pessoas no linkedin
-- Diana é especialista em consultoria
+##### Tipo Learning Task 1.1:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 1.2:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 1.3:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
 
 
 
-### Investigação de contexto
-1. O que não pode faltar em alguém que faz intervenção?
-2. O que uma pessoa que domina intervenção precisa saber?
-3. Como uma pessoa que domina intervenção precisa agir?
-4. Quais cuidados eu devo ter ao fazer uma intervenção?
+-------------------------------------
+#### Task class 2: Layout no Typeforms
 
+##### Objetivo ligado a task class: 
+##### Assuntos evolvidos na task class: 
+<Quais são os assuntos contidos nesta atividade>
+##### Informação de suporte:
+ <Quais são os links para a informação de suporte que são necessários para realizar a tarefa?>
 
-### Pessoas que são autoridade sobre o tema
+##### Tipo Learning Task 2.1:
+##### Descrição da Learning task:
+<Descrição>
 
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
 
+##### Tipo Learning Task 2.2:
+##### Descrição da Learning task:
+<Descrição>
 
-### Fontes de consumo fácil
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
 
+##### Tipo Learning Task 2.3:
+##### Descrição da Learning task:
+<Descrição>
 
-### Exercícios de validação de contexto
-1. Realizar intervenções na Zup.edu
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
 
+--------------------------------
+
+#### Task class 3: Principais tipos de perguntas no Typeforms
+
+##### Objetivo ligado a task class: 
+##### Assuntos evolvidos na task class: 
+<Quais são os assuntos contidos nesta atividade>
+##### Informação de suporte:
+ <Quais são os links para a informação de suporte que são necessários para realizar a tarefa?>
+
+##### Tipo Learning Task 3.1:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 3.2:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 3.3:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+--------------------------------
+
+#### Task class 4: Utilizando lógica de perguntas no questionário
+
+##### Objetivo ligado a task class: 
+##### Assuntos evolvidos na task class: 
+<Quais são os assuntos contidos nesta atividade>
+##### Informação de suporte:
+ <Quais são os links para a informação de suporte que são necessários para realizar a tarefa?>
+
+##### Tipo Learning Task 4.1:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 4.2:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 4.3:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+--------------------------------
+
+#### Task class 5: Analisando dados no Typeforms
+
+##### Objetivo ligado a task class: 
+##### Assuntos evolvidos na task class: 
+<Quais são os assuntos contidos nesta atividade>
+##### Informação de suporte:
+ <Quais são os links para a informação de suporte que são necessários para realizar a tarefa?>
+
+##### Tipo Learning Task 5.1:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 5.2:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 5.3:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+--------------------------------
+
+#### Task class 6: Criando conexão com a planilha do google forms
+
+##### Objetivo ligado a task class: 
+##### Assuntos evolvidos na task class: 
+<Quais são os assuntos contidos nesta atividade>
+##### Informação de suporte:
+ <Quais são os links para a informação de suporte que são necessários para realizar a tarefa?>
+
+##### Tipo Learning Task 6.1:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 6.2:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+##### Tipo Learning Task 6.3:
+##### Descrição da Learning task:
+<Descrição>
+
+##### Informação procedural
+< Video de demostração + informação rotineira + entre outros>
+
+--------------------------------
