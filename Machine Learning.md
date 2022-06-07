@@ -29,8 +29,8 @@
 ## Como usar?
 
 # Assuntos introdutórios
-- [O que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3)
-- [Tipos de dados do seu dataset](https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913)
+- [O que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3) - [Link 2 ibm](https://www.ibm.com/br-pt/analytics/machine-learning) - [Link 3 tecnblog](https://tecnoblog.net/responde/machine-learning-ia-o-que-e/)
+- [Tipos de dados do seu dataset](https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913) - [discreto x continuo](https://grupoalvo.wordpress.com/2009/06/08/estatistica-variaveis-continuas-e-discretas/) - [Mais sobre escalas intervalares x razão](https://epge.fgv.br/we/Graduacao/Estatistica1/2009/2?action=AttachFile&do=get&target=Estatistica_descritiva.pdf)
 - [Tipos de aprendizagem](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf)
 - [Uma breve introdução ao Machine Learning](https://www.youtube.com/watch?v=WgUrONLhons)
 - [As 10 Principais Arquiteturas de Redes Neurais](http://deeplearningbook.com.br/as-10-principais-arquiteturas-de-redes-neurais/)
