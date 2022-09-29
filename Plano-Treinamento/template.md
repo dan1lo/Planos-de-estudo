@@ -2,10 +2,13 @@
 
 ### Objetivo de aprendizagem
 Objetivos seguindo a taxonomia de bloom
-### Explorar o tema
-O que você deseja descobrir a partir dos objetivos
+
 ### Palavras chaves
 Palavras chaves que surgem a partir do que você deseja descobrir e dos objetivos
+
+### Explorar o tema
+O que você deseja descobrir a partir dos objetivos
+
 ### Onde pesquisar
 Dado o nível dos objetivos, onde podemos pesquisar? Google, artigos, livros, aulas, youtube. 
 
